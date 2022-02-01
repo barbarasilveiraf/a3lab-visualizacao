@@ -1,0 +1,7 @@
+{
+"project_name": "a3lab_ad",
+            "env_path": "a3lab_ad/a3lab_ad_env",
+            "files_path": "../data/raw/",
+            "key": "<<<<key>>>>",
+            "user": "<<<<user>>>>"
+            }
